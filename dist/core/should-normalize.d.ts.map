@@ -1,0 +1,1 @@
+{"version":3,"file":"should-normalize.d.ts","sourceRoot":"","sources":["../packages/slate/src/core/should-normalize.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,sBAAsB,CAAA;AAC7C,OAAO,EAAE,kBAAkB,EAAE,MAAM,gBAAgB,CAAA;AAEnD,eAAO,MAAM,eAAe,EAAE,kBAAkB,CAAC,MAAM,CAAC,iBAAiB,CAAC,CAgBzE,CAAA"}
